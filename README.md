@@ -17,3 +17,4 @@ Project Files Contain:
 11. Find The Sum Of Natural Numbers Using For Loop
 12. Print Numbers From 1 to 5 Using For Loop
 13. Print Text 10 times using While loop
+14. Print The table of any number using Scanner class and while loop
