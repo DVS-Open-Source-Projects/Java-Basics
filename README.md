@@ -20,3 +20,4 @@ Project Files Contain:
 14. Print The table of any number using Scanner class and while loop
 15. Use Switch Case For Numbers
 16. Use Switch Case For Strings
+17. Use Switch Case Defaults
