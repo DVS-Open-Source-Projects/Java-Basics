@@ -13,7 +13,7 @@ Project Files Contain:
 7. Using For Loop to find Sum Of Even Numbers
 8. Accept Number from user and Print In Reverse
 9. Check whether the number is Palindrome or not
-10. Print Text 5T imes Using For Loop
+10. Print Text 5 Times Using For Loop
 11. Find The Sum Of Natural Numbers Using For Loop
 12. Print Numbers From 1 to 5 Using For Loop
 13. Print Text 10 times using While loop
